@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
     if name <= 1 
      
     end
-    
+     return name
   end
 end
